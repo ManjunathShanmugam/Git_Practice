@@ -1,2 +1,3 @@
-This is sample file gor practice
+This is sample file for practice
+this is second line in sample file
 
